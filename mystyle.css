@@ -1,0 +1,550 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(asdd.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-blend-mode: lighten;
+	
+	
+}
+
+header
+{
+	padding: 50px 50px;
+	box-sizing: border-box;
+	font-size: 2.5em;
+	margin: 0;
+	color: #f00;
+	text-align: center;
+	font-family: comic sans MS;
+
+}
+	
+section
+{
+	width:100%;
+	height: 100vh;
+}
+
+section.sec1
+{
+	background-image: url(ew.jpg);
+	background-size: cover;
+	
+}
+
+section.sec2
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec2 h2
+{
+	font-size: 3em;
+	margin: 0;
+	padding: 0;
+	color: #f00;
+}
+
+section.sec2 p
+{
+	font-size: 1.3em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+	
+	
+section.sec3
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec3 h5
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: #f00;
+}
+
+section.sec3 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec4
+{
+	background-image: url(pointer.jpg);
+	background-size: cover;
+	;
+	
+}
+
+section.sec5
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec5 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec5 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec6
+{
+	background-image: url(blood.jpg);
+	background-size: cover;
+	
+}
+
+section.sec7
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec7 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec7 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+section.sec8
+{
+	background-image: url(lab.jpg);
+	background-size: cover;
+	
+}
+
+section.sec9
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec9 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec9 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec10
+{
+	background-image: url(box.jpg);
+	background-size: cover;
+	
+}
+
+section.sec11
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec11 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec11 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec12
+{
+	background-image: url(dutch.jpg);
+	background-size: cover;
+	
+}
+
+section.sec13
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec13 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec13 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec14
+{
+	background-image: url(dob.jpg);
+	background-size: cover;
+	
+}
+
+section.sec15
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec15 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec15 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec16
+{
+	background-image: url(belg.jpg);
+	background-size: cover;
+	
+}
+
+section.sec17
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec17 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec17 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec18
+{
+	background-image: url(bull.jpg);
+	background-size: cover;
+	
+}
+
+section.sec19
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec19 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec19 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec20
+{
+	background-image: url(rott.jpg);
+	background-size: cover;
+	
+}
+
+section.sec21
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec21 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec21 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec22
+{
+	background-image: url(german.jpg);
+	background-size: cover;
+	
+}
+
+
+section.sec23
+{
+	padding: 100px;
+	box-sizing: border-box;
+	height: auto;
+	
+}
+
+section.sec23 h4
+{
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+
+section.sec23 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+section.sec24 p
+{
+	font-size: 1.1em;
+	margin: 0;
+	padding: 0;
+	color: #f00;
+}
+
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 4px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: none;
+    padding: 20px;
+}
+
+
+section.sec26 p
+{
+	font-size: .5em;
+	margin: 0;
+	padding: 0;
+	color:white;
+	text-align: center;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+	
+	
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	margin: 5px;
+	
+}
+
+.Portfolio {
+    float: left;
+    overflow: hidden;
+	
+}
+
+.Portfolio .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 5px;
+	
+}
+
+.navbar a:hover, .Portfolio:hover .dropbtn {
+    background-color: red;
+	
+}
+
+.Portfolio-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	
+    z-index: 1;
+}
+
+.Portfolio-content a {
+    float: none;
+    color: black;
+    padding: 20px 20px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+	
+}
+
+.Portfolio-content a:hover {
+    background-color: #ddd;
+	position: sticky;
+	top: 0;
+}
+
+.Portfolio:hover .Portfolio-content {
+    display: block;
+	
+}
+
+.vertical-menu {
+    width: 200px;
+    height: 150px;
+    overflow-y: auto;
+	
+	
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+	
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+
